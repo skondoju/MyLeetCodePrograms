@@ -1,0 +1,7 @@
+grid-template-areas:
+      "left-col left-col"
+      "logo-name-col logo-name-col logo-name-col logo-name-col   portfolio-name "
+      "portfolio-name portfolio-name   portfolio-name   portfolio-name"
+      "menu-col menu-col "
+      "main-img main-img main-img "
+      "footer footer footer footer";
